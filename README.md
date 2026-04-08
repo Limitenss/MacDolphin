@@ -9,4 +9,6 @@ The MacDolphin is a macro-pad, but in the shape of a dolphin :)
 - FINAL_3d_model - contains the FINAL 3d model case!
 - Firmware.zip - contains all the firmware used!
 
-## Images
+## Finished Product!
+
+![Finished Product](20260407_200755(1).jpg)
